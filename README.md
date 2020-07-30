@@ -6,3 +6,6 @@ Week 2 : universal gates.
 Q.D, 1 done and added.
 Q.D, 2 done and added.
 Q.D, 2.2 done and added.
+
+Week 3 : combinational circuits.
+task 1 done and added.
