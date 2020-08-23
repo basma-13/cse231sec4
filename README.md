@@ -14,3 +14,6 @@ task 2 done and added.
 
 Week 4 : BCD to excess 3 converter.
 done and added.
+
+Week 5 : Binary arithmetic 
+task 1 and 2 done and added. 
