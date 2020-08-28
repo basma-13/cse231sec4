@@ -17,3 +17,6 @@ done and added.
 
 Week 5 : Binary arithmetic 
 task 1 and 2 done and added. 
+
+Week 6 : 7 segment display
+done and added.
