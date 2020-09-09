@@ -20,3 +20,7 @@ task 1 and 2 done and added.
 
 Week 6 : 7 segment display
 done and added.
+
+Week 7 : Multiplexer
+task 1 and 2 done and added.
+*updated manually, can't git bash. 
