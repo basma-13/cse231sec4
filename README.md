@@ -23,4 +23,8 @@ done and added.
 
 Week 7 : Multiplexer
 task 1 and 2 done and added.
-*updated manually, can't git bash. 
+*updated manually, cannot git bash. 
+
+Week 8 : Decoder + D flip flops 
+both done and added.
+*new laptop, cannot gitbash, updated manually. 
